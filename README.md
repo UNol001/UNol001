@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UNol001
 - 👀 I’m interested in BI and learning new technologies
-- 🌱 I’m currently learning dbt
+- 🌱 I’m currently learning dbt and git
 - 📫 How to reach me: ulrika.nola@bizware.se
 
 <!---
